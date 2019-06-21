@@ -1,0 +1,31 @@
+body {background-color: #1a1a1a; font-family: 'Roboto Condensed', sans-serif; margin: 0px;}
+.wrapper {background-color: #d9d9d9; margin-right: 10%; margin-left: 10%; margin-top: -2%; height: 1900px}
+.wrapper > h3 {position: absolute; top: 1800px; right: 500px;}
+.header {background-color: white; margin-top: 0px; height: 5%;}
+.header > h1 {color:black; position: absolute; top: -8px; right: 600px;z-index: 1;}
+.middle{height: 1500px; width: 900px; display: table-cell; vertical-align: middle; margin: auto;  display: block; margin-left: auto;
+	margin-right: auto;}
+.element1{background-color: white; height: 400px; width: 400px;   display: block; margin-left: auto; margin-right: auto; vertical-align: middle; 
+	display: block; border-radius: 8px;}
+.element2{background-color: white; height: 400px; width: 400px;   display: block; margin-left: auto; margin-right: auto; vertical-align: middle; 
+	display: block; border-radius: 8px;}
+.element3{background-color: white;  height: 400px; width: 400px; display: block; margin-left: auto; margin-right: auto; vertical-align: middle; 
+	display: block; border-radius: 8px;}
+.element4{background-color: white;  height: 400px; width: 400px; display: block; margin-left: auto; margin-right: auto; vertical-align: middle; 
+	display: block; border-radius: 8px;}
+.tittle1{background-color: white; text-align: left; border-radius: 8px; font-size: 25px;}
+.img1{background-color: black; height: auto; width: 100%;}
+.img1>img {display: block; height: auto; width: 100%;}
+.coment1{background-color: white;display: block; text-align: center; display: block; margin-bottom: auto;}
+.tittle2{background-color: white; text-align: left; border-radius: 8px; font-size: 25px;}
+.img2{background-color: black; height: auto; width: 100%;}
+.img2>img {display: block; height: auto; width: 100%;}
+.coment2{background-color: white;display: block; text-align: center; display: block; margin-bottom: auto;}
+.tittle3{background-color: white; text-align: left; border-radius: 8px; font-size: 25px;}
+.img3{background-color: black; height: auto; width: 100%;}
+.img3>img {display: block; height: auto; width: 100%;}
+.coment3{background-color: white;display: block; text-align: center; display: block; margin-bottom: auto;}
+.tittle4{background-color: white; text-align: left; border-radius: 8px; font-size: 25px;}
+.img4{background-color: black; height: auto; width: 100%;}
+.img4>img {display: block; height: auto; width: 100%;}
+.coment4{background-color: white;display: block; text-align: center; display: block; margin-bottom: auto;}
